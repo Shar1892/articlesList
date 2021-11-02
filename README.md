@@ -1,3 +1,10 @@
+Приложение с выводом списка записей из json-файла с возможностью удаления записей и поиска по заголовкам записей.
+
+ToDo:
+
+- добавление записей, форму добавления с валидацией полей
+- страница с пустым результатом поиска и с пустым списком
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
